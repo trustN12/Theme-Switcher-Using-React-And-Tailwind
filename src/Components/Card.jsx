@@ -44,8 +44,8 @@ export default function Card() {
                         <div className="absolute top-0 left-0 right-0 flex justify-center">
                             <img
                                 src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/cab4c932437055.5682ac94eecc6.gif"
-                                alt="Robot"
-                                className="w-full max-w-sm sm:max-w-full sm:h-auto opacity-100"
+                                alt="Rocket"
+                                className="w-full h-screen"
                             />
                         </div>
                     </div>
